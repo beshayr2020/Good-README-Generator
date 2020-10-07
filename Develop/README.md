@@ -1,11 +1,12 @@
 
-# **4**
+# **Unit 09 Node.js and ES6+ Homework: Good README Generator**
 
-4
+Good README Generator
 
 ## Description 
 
-4
+When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.  
+
 
 ## Table of contents
 
@@ -20,33 +21,36 @@
 
 
 ## Installation
+Run:
 
-        4
+                npm i
 
 ## Usage
 
-4
+This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:
+
+                node index.js
 
 ## Licence
 
-4
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Contributors
 
-4
+Beshayr Seid
 
 ## Test
 
-4
+locally Tested and run successfully.
 
 
 ## Repository
 
-- [Project Repo](besg@gmail.com)
+- [Project Repo](https://github.com/beshayr2020/Good-README-Generator)
 
 ## GitHub
 
 - [user name] besh
-- [GitHub Profile](https://github.com/besh)
+- [GitHub Profile](https://github.com/beshayr2020)
 - [for more information reach me with this email address](null)
 
